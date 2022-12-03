@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Jetpay",
+    "slug": "Jetpay",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#6800EF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jetpay",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#6800EF"
+      },
+      "package": "com.jetpay"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
