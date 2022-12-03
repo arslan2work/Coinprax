@@ -1,0 +1,6 @@
+
+    "splash": {
+      "image": "./assets/giphy.gif",
+      "resizeMode": "contain",
+      "backgroundColor": "#1B0B3B"
+    },
